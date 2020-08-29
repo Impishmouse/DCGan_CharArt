@@ -1,1 +1,0 @@
-# DCGan_CharArt
